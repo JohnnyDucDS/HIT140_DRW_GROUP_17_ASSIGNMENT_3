@@ -1,0 +1,1 @@
+Predicted goals = 1.694686 +0.002477 * fifa_ranking_points -0.002373 * opponent_fifa_ranking_points -0.005513 * shots_per90 +0.014898 * possession +0.012505 * corners_per90 +0.145394 * opponent_goals_conceded_per90 -0.012156 * opponent_pass_accuracy -0.003585 * pass_accuracy

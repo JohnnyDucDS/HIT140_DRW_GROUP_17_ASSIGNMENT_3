@@ -1,0 +1,10 @@
+Variable,Coefficient
+Intercept,1.4969899106737063
+fifa_ranking_points,0.0015271865733921788
+opponent_fifa_ranking_points,-0.0015929389488535321
+shots_per90,0.0034296958206512106
+possession,0.008089432182475707
+corners_per90,0.012529282721050812
+opponent_goals_conceded_per90,0.102257792287764
+opponent_pass_accuracy,-0.017706406481277585
+pass_accuracy,0.010981270681259665
